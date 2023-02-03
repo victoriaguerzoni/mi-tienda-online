@@ -4,5 +4,5 @@
 * Tutor: Andres Pata
 * alumno: Maria Victoria Guerzoni
 
-El siguiente proyecto tiene como objetivo crear una tienda online mediante **_React_** que se asemeje esteticamente a la libreria *_Yenny el ateneo_*.
+El siguiente proyecto tiene como expectativa de logro, crear una tienda online mediante **_React_** que se asemeje esteticamente a la libreria *_Yenny el ateneo_*.
 
